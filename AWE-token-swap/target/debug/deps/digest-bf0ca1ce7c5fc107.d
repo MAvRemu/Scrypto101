@@ -1,0 +1,12 @@
+/Users/marius/Desktop/Scrypto101/AWE-token-swap/target/debug/deps/digest-bf0ca1ce7c5fc107.rmeta: /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/lib.rs /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api.rs /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/ct_variable.rs /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/rt_variable.rs /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/wrapper.rs /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/xof_reader.rs /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/digest.rs /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/mac.rs
+
+/Users/marius/Desktop/Scrypto101/AWE-token-swap/target/debug/deps/digest-bf0ca1ce7c5fc107.d: /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/lib.rs /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api.rs /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/ct_variable.rs /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/rt_variable.rs /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/wrapper.rs /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/xof_reader.rs /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/digest.rs /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/mac.rs
+
+/Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/lib.rs:
+/Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api.rs:
+/Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/ct_variable.rs:
+/Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/rt_variable.rs:
+/Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/wrapper.rs:
+/Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/xof_reader.rs:
+/Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/digest.rs:
+/Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/mac.rs:

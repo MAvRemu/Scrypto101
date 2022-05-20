@@ -1,0 +1,10 @@
+/Users/marius/Desktop/Scrypto101/AWE-token-swap/target/debug/deps/libscrypto_derive-77365168f5a7c851.dylib: /Users/marius/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/lib.rs /Users/marius/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/ast.rs /Users/marius/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/blueprint.rs /Users/marius/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/import.rs /Users/marius/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/non_fungible_data.rs /Users/marius/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/utils.rs
+
+/Users/marius/Desktop/Scrypto101/AWE-token-swap/target/debug/deps/scrypto_derive-77365168f5a7c851.d: /Users/marius/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/lib.rs /Users/marius/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/ast.rs /Users/marius/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/blueprint.rs /Users/marius/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/import.rs /Users/marius/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/non_fungible_data.rs /Users/marius/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/utils.rs
+
+/Users/marius/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/lib.rs:
+/Users/marius/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/ast.rs:
+/Users/marius/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/blueprint.rs:
+/Users/marius/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/import.rs:
+/Users/marius/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/non_fungible_data.rs:
+/Users/marius/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/utils.rs:

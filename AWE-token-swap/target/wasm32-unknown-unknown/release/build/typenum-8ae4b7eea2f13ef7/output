@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/marius/Desktop/Scrypto101/AWE-token-swap/target/wasm32-unknown-unknown/release/build/typenum-8ae4b7eea2f13ef7/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/marius/Desktop/Scrypto101/AWE-token-swap/target/wasm32-unknown-unknown/release/build/typenum-8ae4b7eea2f13ef7/out/op.rs
