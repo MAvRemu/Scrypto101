@@ -1,0 +1,11 @@
+/Users/marius/Desktop/Scrypto101/Scrypto101/youchoose/target/wasm32-unknown-unknown/release/deps/signature-23fa100a42887ec2.rmeta: /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/lib.rs /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/error.rs /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/signature.rs /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/signer.rs /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/verifier.rs
+
+/Users/marius/Desktop/Scrypto101/Scrypto101/youchoose/target/wasm32-unknown-unknown/release/deps/libsignature-23fa100a42887ec2.rlib: /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/lib.rs /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/error.rs /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/signature.rs /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/signer.rs /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/verifier.rs
+
+/Users/marius/Desktop/Scrypto101/Scrypto101/youchoose/target/wasm32-unknown-unknown/release/deps/signature-23fa100a42887ec2.d: /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/lib.rs /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/error.rs /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/signature.rs /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/signer.rs /Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/verifier.rs
+
+/Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/lib.rs:
+/Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/error.rs:
+/Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/signature.rs:
+/Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/signer.rs:
+/Users/marius/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/verifier.rs:
